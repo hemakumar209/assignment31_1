@@ -1,0 +1,47 @@
+• Create and execute a macro (show a button), to sum of “Sales” where the “attractiveness” rating is more than 5.
+
+• Do it by recording a Macro.
+
+• Try it using writing a VBA code in Macro.
+
+• Use http://www.excel-easy.com/vba.html for reference to write VBA script.
+
+• Protect the Workbook and save version and upload as a first part of assignment
+
+• Share the protected workbook, by giving edit access and implement track change. Upload this workbook as second part of your assignment.
+Note: Both upload should contain macros (two types as mentioned above).
+
+
+Below are the methods to perform the above tasks. Password to open the excel is file "123"
+===========================================================================================
+
+The two files are uploaded with "Sales_Data_Assign_31_Protected.xlsm" and "Sales_Data_Assign_31_Protected_Share&TrackChanges.xlsm"
+
+
+To protect the workbook
+========================
+
+Click on file > SaveAs > Tools > General Option
+		
+	provide a password in "Password to Modify" click OK to save the workbook.
+
+	Password to open excel file: "123"
+
+
+
+To share protected workbook & implement track change
+====================================================
+
+Click Review > Share Workbook.
+
+Note that in newer versions of Excel, the Share Workbook button has been hidden. Here's how to unhide it.
+
+In the Share Workbook dialog box, on the Editing tab, select the Allow changes by more than one user at the same time check box.
+
+Click the Advanced tab.
+
+Under Track changes, click Keep change history for and, in the days box, type the number of days of change history that you want to keep. By default, Excel keeps the change history for 30 days and permanently erases any change history that is older than this number of days. To keep change history for a longer than 30 days, enter a number that is larger than 30.
+
+Click OK and, if you are prompted to save the workbook, click OK to save the workbook.
+
+Also From the Review tab, click the Track Changes command, then select Highlight Changes from the drop-down menu.
